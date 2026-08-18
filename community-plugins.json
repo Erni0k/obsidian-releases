@@ -47046,4 +47046,12 @@
     "description": "Add editable text blocks with a live count beneath them. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "lee-jongwoo/count-block"
   }
+  {
+    "id": "pokemon-collection", 
+    "name": "Pokémon Collection Manager", 
+    "author": "Erni0k", 
+    "description": "Track your physical Pokémon TCG collection in Obsidian notes, with card data and Cardmarket pricing.", 
+    "repo": "Erni0k/PokeObsidian"
+  } 
+  
 ]
